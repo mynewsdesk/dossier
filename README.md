@@ -1,3 +1,7 @@
+# Note about mynewsdesk fork
+
+We forked this fork of a fork since it was the only fork out there with Rails 6 support (https://github.com/adamhunter/dossier/pull/3) and the base project appears completely unmaintained. Long term we should probably move away from using dossier. Could reconsider if the gem starts getting maintained again.
+
 # Dossier
 
 Dossier is a Rails engine that turns SQL into reports. Reports can be easily rendered in various formats, like HTML, CSV, XLS, and JSON.
